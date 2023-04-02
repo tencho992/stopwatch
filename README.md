@@ -9,21 +9,18 @@ instantiating Date and using getTime() method!
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, 
+**Tech used:** HTML, JavaScript, 
 
-Starting with more focused and smaller projects allowed me to embrace versatile functions and all its capabilities. Instantiating Date and using getTime() method!
+Instantiating Date and using getTime() method!
+
+Starting with more focused and smaller projects allowed me to embrace versatile functions and all its capabilities. 
 
 ## Optimizations
-*function code block repitition to get comfortable with javaScript*
+*My second attempt at stopwatch practice*
 
 ## Lessons Learned:
 
-Learned that everything commmented out will not affect the speed & optimization on a site. With the codeblock re-written and commented out a dozen times, I was worried
-that it may affect the speed. This allowed me to get more comfortable with adding comments to each of my steps in future projects and work.  
-Learned that with practice can come perfect. One step closer to perfecting the foundations of user interaction. 
+This was tougher than expected. 
+My inability too see the endless possibilities with built in methods limit me to basic coding. I must be more daring with my coding.
 
-Impletementing eventListeners and functions. 
-
-*fuck yeah I did it!*
-
-also, CSS gets easier when JS takes half the load. 
+*Hell yeah! Let's goo!* 
