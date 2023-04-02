@@ -10,7 +10,7 @@ function StopWatch(){
     }
     this.stop = function(){
         if(!running){
-            throw new Error('start it before you stop it, like damn.')
+            throw new Error('start it before you stop it, like damn she in ha mood.')
         }
         running= false
         startTime= new Date();
@@ -30,42 +30,6 @@ function StopWatch(){
         }
     })
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
